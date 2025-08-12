@@ -338,8 +338,7 @@ section.contato > .botao > a {
     background-color: #feab00; /* Cor de fundo amarela */
     margin: 0 auto; /* Centraliza horizontalmente */
     margin-top: 50px; /* Distância de 50px do topo */
-    font-family: dosis; /* Fonte personalizada (seria necessário @font-face) */
-    font-weight: bolder;
+    font-family: dosisBold; /* Fonte personalizada (seria necessário @font-face) */
     font-size: 20px; /* Tamanho da fonte */
     width: 600px; /* Largura do botão */
     height: 60px; /* Altura do botão */
@@ -371,6 +370,7 @@ section.contato > .botao > a {
     font-family: 'Arial', sans-serif; /* Fonte Arial */
     font-size: 16px; /* Tamanho da fonte */
     transition: all 0.3s ease; /* Animação suave em 0.3s */
+<<<<<<< HEAD
     text-decoration: none;
     
 }
@@ -378,6 +378,11 @@ a:visited {
     color: inherit; /* mantém a mesma cor após visitar */
 }
 
+=======
+}
+
+
+>>>>>>> 5271d6db410a21b4af6c86c52062022efcdbcc1b
 .rede i {
     font-size: 30px; /* Tamanho do ícone */
     margin-bottom: 0px; /* Sem margem inferior */
